@@ -660,4 +660,4 @@ The project is intended to evolve as an open-source chess infrastructure compone
 
 AutoIt ChessCore is licensed under the **Apache License 2.0**.
 
-See the [LICENSE](https://github.com/hamidic911/AutoIt-ChessCore/blob/main/LICENSE) file for the complete license text.
+See the [LICENSE](LICENSE) file for the complete license text.
